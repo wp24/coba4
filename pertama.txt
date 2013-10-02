@@ -1,1 +1,2 @@
 wow editan yang pertama di branch master
+lokal 1
